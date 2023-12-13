@@ -4,6 +4,7 @@ The number guessing game prompts the user to guess a number between 1 and 100. A
 1. **Installation :**  
   - Clone the repository using `git clone https://github.com/er-hiba/Number_Guessing_Game.git`.
   - Ensure Python is installed on your system.
+  - Import Tkinter
 2. **Running the Program :**
   - Navigate to the cloned directory.
   - Run the Python script using `python game.py` or your Python interpreter command.
