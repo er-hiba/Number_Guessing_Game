@@ -12,7 +12,7 @@ The number guessing game prompts the user to guess a number between 1 and 100. A
   - Click the "Check" button to evaluate if your guess matches the secret number.
   - Below the entry field, receive feedback on whether your guess is too low, too high, or correct.
   - Keep guessing until you correctly identify the secret number!
-## Preview
+## Screenshots
 <img src="pics/ex1.png">
 <img src="pics/ex3.png">
 <img src="pics/ex4.png">
